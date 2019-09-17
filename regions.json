@@ -1,0 +1,607 @@
+[
+  {
+    "provinsi":"Nanggroe Aceh Darussalam",
+    "kab_kot":[
+      {"nama":"Kota Langsa"},
+      {"nama":"Kota Lhokseumawe"},
+      {"nama":"Kota Sabang"},
+      {"nama":"Kota Banda Aceh"},
+      {"nama":"Kab. Bener Meriah"},
+      {"nama":"Kab. Aceh Tamiang"},
+      {"nama":"Kab. Nagan Jaya"},
+      {"nama":"Kab. Aceh Jaya"},
+      {"nama":"Kab. Gayo Lues"},
+      {"nama":"Kab. Aceh Barat Daya"},
+      {"nama":"Kab. Bireun"},
+      {"nama":"Kab. Aceh Singkil"},
+      {"nama":"Kab. Simeulue"},
+      {"nama":"Kab. Aceh Utara"},
+      {"nama":"Kab. Pidie"},
+      {"nama":"Kab. Aceh Besar"},
+      {"nama":"Kab. Aceh Barat"},
+      {"nama":"Kab. Tengah"},
+      {"nama":"Kab. Aceh Timur"},
+      {"nama":"Kab. Aceh Tenggara"},
+      {"nama":"Kab. Aceh Selatan"}
+    ]
+  },
+  {
+    "provinsi":"Sumatera Utara",
+    "kab_kot":[
+      {"nama":"Kota Padang Sidempuan"},
+      {"nama":"Kota Tebing Tinggi"},
+      {"nama":"Kota Binjai"},
+      {"nama":"Kota Tanjung Balai"},
+      {"nama":"Kota Sibolga"},
+      {"nama":"Kota Pematang Siantar"},
+      {"nama":"Kota Medan"},
+      {"nama":"Kab. Serdang Bedagai "},
+      {"nama":"Kab. Samosir "},
+      {"nama":"Kab. Humbang Hasundutan"},
+      {"nama":"Kab. Pakpak Barat"},
+      {"nama":"Kab. Nias Selatan"},
+      {"nama":"Kab. Mandailing Natal"},
+      {"nama":"Kab. Toba Samosir"},
+      {"nama":"Kab. Dairi"},
+      {"nama":"Kab. Labuhan Batu"},
+      {"nama":"Kab. Asahan"},
+      {"nama":"Kab. Simalungun"},
+      {"nama":"Kab. Deli Serdang"},
+      {"nama":"Kab. Karo"},
+      {"nama":"Kab. Langkat"},
+      {"nama":"Kab. Nias"},
+      {"nama":"Kab. Tapanuli Selatan"},
+      {"nama":"Kab. Tapanuli Utara"},
+      {"nama":"Kab. Tapanuli Tengah"}
+      ]
+  },
+  {
+    "provinsi":"Sumatera Barat",
+    "kab_kot":[
+      {"nama":"Kota Pariaman"},
+      {"nama":"Kota Payakumbuh"},
+      {"nama":"Kota Bukittinggi"},
+      {"nama":"Kota Padang Panjang"},
+      {"nama":"Kota Sawhlunto"},
+      {"nama":"Kota Solok"},
+      {"nama":"Kota Padang"},
+      {"nama":"Kab. Pasaman Barat "},
+      {"nama":"Kab. Solok Selatan "},
+      {"nama":"Kab. Dharmasraya"},
+      {"nama":"Kab. Kepulauan Mentawai"},
+      {"nama":"Kab. Pasaman "},
+      {"nama":"Kab. Lima Puluh Kota"},
+      {"nama":"Kab. Agam"},
+      {"nama":"Kab. Padang Pariaman"},
+      {"nama":"Kab. Tanah Datar"},
+      {"nama":"Kab. Sw.lunto"},
+      {"nama":"Kab. Solok"},
+      {"nama":"Kab.pesisir Selatan"}
+    ]
+  },
+  {
+    "provinsi":"Sumatera Selatan",
+    "kab_kot":[
+      {"nama":"Kota Prabumulih"},
+      {"nama":"Kota Lubuk Linggau"},
+      {"nama":"Kota Pagar Alam"},
+      {"nama":"Kota Palembang"},
+      {"nama":"Kab. Ogan Ilir "},
+      {"nama":"Kab. Oku Selatan "},
+      {"nama":"Kab. Oku Timur "},
+      {"nama":"Kab. Banyuasin"},
+      {"nama":"Kab. Musi Banyuasin"},
+      {"nama":"Kab. Musi Rawas"},
+      {"nama":"Kab. Lahat"},
+      {"nama":"Kab. Muara Enim"},
+      {"nama":"Kab. Ogan Komering Ilir"},
+      {"nama":"Kab. Ogan Komering Ulu"}
+    ]
+  },
+  {
+    "provinsi":"Riau",
+    "kab_kot":[
+      {"nama":"Kota Dumai"},
+      {"nama":"Kota Pekan Baru"},
+      {"nama":"Kab. Kuantan Singingi"},
+      {"nama":"Kab. Siak"},
+      {"nama":"Kab. Rokan Hilir"},
+      {"nama":"Kab. Rokan Hulu"},
+      {"nama":"Kab. Pelalawan"},
+      {"nama":"Kab. Indragiri Hilir"},
+      {"nama":"Kab. Bengkalis"},
+      {"nama":"Kab. Indragiri Hulu"},
+      {"nama":"Kab. Kampar"}
+    ]
+  },
+  {
+    "provinsi":"Jambi",
+    "kab_kot":[
+      {"nama":"Kab. Kerinci"},
+      {"nama":"Kab. Tebo"},
+      {"nama":"Kab. Bungo"},
+      {"nama":"Kab. Tanjung Jabung Timur"},
+      {"nama":"Kab. Tanjung Jabung Barat"},
+      {"nama":"Kab. Muaro Jambi"},
+      {"nama":"Kab. Batanghari"},
+      {"nama":"Kab. Sarolangun"},
+      {"nama":"Kab. Merangin"},
+      {"nama":"Kota Jambi"}
+    ]
+  },
+  {
+    "provinsi":"Bengkulu",
+    "kab_kot":[
+      {"nama":"Kota Bengkulu"},
+      {"nama":"Kab. Kepahiang "},
+      {"nama":"Kab. Lebong "},
+      {"nama":"Kab. Muko Muko"},
+      {"nama":"Kab. Seluma"},
+      {"nama":"Kab. Kaur"},
+      {"nama":"Kab. Bengkulu Utara"},
+      {"nama":"Kab. Rejang Lebong "},
+      {"nama":"Kab. Bengkulu Selatan"}
+    ]
+  },
+  {
+    "provinsi":"Lampung",
+    "kab_kot":[
+      {"nama":"Kota Metro"},
+      {"nama":"Kota Bandar Lampung"},
+      {"nama":"Kab. Way Kanan"},
+      {"nama":"Kab. Lampung Timur"},
+      {"nama":"Kab. Tanggamus"},
+      {"nama":"Kab. Tulang Bawang"},
+      {"nama":"Kab. Lampung Barat"},
+      {"nama":"Kab. Lampung Utara"},
+      {"nama":"Kab. Lampung Tengah"},
+      {"nama":"Kab. Lampung Selatan"}
+    ]
+  },
+  {
+    "provinsi":"Kep. Bangka Belitung",
+    "kab_kot":[
+      {"na,a":"Kota Pangkal Pinang"},
+      {"na,a":"Kab. Bangka Timur"},
+      {"na,a":"Kab. Bangka Barat"},
+      {"na,a":"Kab. Bangka Tengah"},
+      {"na,a":"Kab. Bangka Selatan"},
+      {"na,a":"Kab. Belitung"},
+      {"na,a":"Kab. Bangka"}
+    ]
+  },
+  {
+    "provinsi":"Kep. Riau",
+    "kab_kot":[
+      {"nama":"Kota Tanjung Pinang"},
+      {"nama":"Kota Batam"},
+      {"nama":"Kab. Lingga "},
+      {"nama":"Kab. Natuna"},
+      {"nama":"Kab. Karimun"},
+      {"nama":"Kab. Kepulauan Riau"}
+    ]
+  },
+  {
+    "provinsi":"DKI Jakarta",
+    "kab_kot":[
+      "Kota Jakarta Timur",
+      "Kota Jakarta Selatan",
+      "Kota Jakarta Barat",
+      "Kota Jakarta Utara",
+      "Kota Jakarta Pusat",
+      "Kab. Adm. Kep. Seribu"
+    ]
+  },
+  {
+    "provinsi":"Jawa Barat",
+    "kab_kot":[
+      {"nama":"Kota Banjar"},
+      {"nama":"Kota Tasikmalaya"},
+      {"nama":"Kota Cimahi"},
+      {"nama":"Kota Depok"},
+      {"nama":"Kota Bekasi"},
+      {"nama":"Kota Cirebon"},
+      {"nama":"Kota Bandung"},
+      {"nama":"Kota Sukabumi"},
+      {"nama":"Kota Bogor"},
+      {"nama":"Kab. Bekasi"},
+      {"nama":"Kab. Karawang"},
+      {"nama":"Kab. Purwakarta"},
+      {"nama":"Kab. Subang"},
+      {"nama":"Kab. Indramayu"},
+      {"nama":"Kab. Sumedang"},
+      {"nama":"Kab. Majalengka"},
+      {"nama":"Kab. Cirebon"},
+      {"nama":"Kab. Kuningan"},
+      {"nama":"Kab. Ciamis"},
+      {"nama":"Kab. Tasikmalaya"},
+      {"nama":"Kab. Garut"},
+      {"nama":"Kab. Bandung"},
+      {"nama":"Kab. Cianjur"},
+      {"nama":"Kab. Sukabumi"},
+      {"nama":"Kab. Bogor"}
+    ]
+  },
+  {
+    "provinsi":"Jawa Tengah",
+    "kab_kot":[
+      {"nama":"Kota Tegal"},
+      {"nama":"Kota Pekalongan"},
+      {"nama":"Kota Semarang"},
+      {"nama":"Kota Salatiga"},
+      {"nama":"Kota Surakarta"},
+      {"nama":"Kota Magelang"},
+      {"nama":"Kab. Brebes"},
+      {"nama":"Kab. Tegal"},
+      {"nama":"Kab. Pemalang"},
+      {"nama":"Kab. Pekalongan"},
+      {"nama":"Kab. Batang"},
+      {"nama":"Kab. Kendal"},
+      {"nama":"Kab. Temanggung"},
+      {"nama":"Kab. Semarang"},
+      {"nama":"Kab. Demak"},
+      {"nama":"Kab. Jepara"},
+      {"nama":"Kab. Kudus"},
+      {"nama":"Kab. Pati"},
+      {"nama":"Kab. Rembang"},
+      {"nama":"Kab. Blora"},
+      {"nama":"Kab. Grobogan"},
+      {"nama":"Kab. Sragen"},
+      {"nama":"Kab. Karanganyar"},
+      {"nama":"Kab. Wonogiri"},
+      {"nama":"Kab. Sukoharjo"},
+      {"nama":"Kab. Klaten"},
+      {"nama":"Kab. Boyolali"},
+      {"nama":"Kab. Magelang"},
+      {"nama":"Kab. Wonosobo"},
+      {"nama":"Kab. Purworejo"},
+      {"nama":"Kab. Kebumen"},
+      {"nama":"Kab. Banjarnegara"},
+      {"nama":"Kab. Purbalingga"},
+      {"nama":"Kab. Banyumas"},
+      {"nama":"Kab. Cilacap"}
+    ]
+  },
+  {
+    "provinsi":"DI Yogyakarta",
+    "kab_kot":[
+      {"nama":"Kota Yogyakarta"},
+      {"nama":"Kab. Sleman"},
+      {"nama":"Kab. Gunung Kidul"},
+      {"nama":"Kab. Bantul"},
+      {"nama":"Kab. Kulon Progo"}
+    ]
+  },
+  {
+    "provinsi":"Jawa Timur",
+    "kab_kot":[
+      {"nama":"Batu"},
+      {"nama":"Kota Surabaya"},
+      {"nama":"Kota Madiun"},
+      {"nama":"Kota Mojokerto"},
+      {"nama":"Kota Pasuruan"},
+      {"nama":"Kota Probolinggo"},
+      {"nama":"Kota Malang"},
+      {"nama":"Kota Blitar"},
+      {"nama":"Kota Kediri"},
+      {"nama":"Kab. Sumenep"},
+      {"nama":"Kab. Pamekasan"},
+      {"nama":"Kab. Sampang"},
+      {"nama":"Kab. Bangkalan"},
+      {"nama":"Kab. Gresik"},
+      {"nama":"Kab. Lamongan"},
+      {"nama":"Kab. Tuban"},
+      {"nama":"Kab. Bojonegoro"},
+      {"nama":"Kab. Ngawi"},
+      {"nama":"Kab. Magetan"},
+      {"nama":"Kab. Madiun"},
+      {"nama":"Kab. Nganjuk"},
+      {"nama":"Kab. Jombang"},
+      {"nama":"Kab. Mojokerto"},
+      {"nama":"Kab. Sidoarjo"},
+      {"nama":"Kab. Pasuruan"},
+      {"nama":"Kab. Probolinggo"},
+      {"nama":"Kab. Situbondo"},
+      {"nama":"Kab. Bondowoso"},
+      {"nama":"Kab. Banyuwangi"},
+      {"nama":"Kab. Jember"},
+      {"nama":"Kab. Lumajang"},
+      {"nama":"Kab. Malang"},
+      {"nama":"Kab. Kediri"},
+      {"nama":"Kab. Blitar"},
+      {"nama":"Kab. Tulungagung"},
+      {"nama":"Kab. Trenggalek"},
+      {"nama":"Kab. Ponorogo"},
+      {"nama":"Kab. Pacitan"}
+    ]
+  },
+  {
+    "provinsi":"Banten",
+    "kab_kot":[
+      {"nama":"Kota Cilegon"},
+      {"nama":"Kota Tangerang"},
+      {"nama":"Kab. Serang"},
+      {"nama":"Kab. Tangerang"},
+      {"nama":"Kab. Lebak"},
+      {"nama":"Kab. Pandeglang"}
+    ]
+  },
+  {
+    "provinsi":"Bali",
+    "kab_kot":[
+      {"nama":"Kota Denpasar"},
+      {"nama":"Kab. Buleleng"},
+      {"nama":"Kab. Karangasem"},
+      {"nama":"Kab. Bangli"},
+      {"nama":"Kab. Klungkung"},
+      {"nama":"Kab. Gianyar"},
+      {"nama":"Kab. Badung"},
+      {"nama":"Kab. Tabanan"},
+      {"nama":"Kab. Jembarana"}
+    ]
+  },
+  {
+    "provinsi":"Nusa Tenggara Barat",
+    "kab_kot":[
+      {"nama":"Kota Bima"},
+      {"nama":"Kota Mataram"},
+      {"nama":"Kab. Sumbawa Barat"},
+      {"nama":"Kab. Bima"},
+      {"nama":"Kab. Dompu"},
+      {"nama":"Kab. Sumbawa "},
+      {"nama":"Kab. Lombok Timur"},
+      {"nama":"Kab. Lombok Tengah"},
+      {"nama":"Kab. Lombok Barat"}
+    ]
+  },
+  {
+    "provinsi":"Nusa Tenggara Timur",
+    "kab_kot":[
+      {"nama":"Kota Kupang"},
+      {"nama":"Kab. Manggarai Barat"},
+      {"nama":"Kab. Rote Ndao"},
+      {"nama":"Kab. Lembata"},
+      {"nama":"Kab. Sumba Barat"},
+      {"nama":"Kab. Sumba Timur"},
+      {"nama":"Kab. Manggarai"},
+      {"nama":"Kab. Ngada"},
+      {"nama":"Kab. Ende"},
+      {"nama":"Kab. Sikka"},
+      {"nama":"Kab. Flores Timur"},
+      {"nama":"Kab. Alor"},
+      {"nama":"Kab. Belu"},
+      {"nama":"Kab. Timor Tengah Utara"},
+      {"nama":"Kab. Timor Tengah Selatan"},
+      {"nama":"Kab. Kupang"}
+    ]
+  },
+  {
+    "provinsi":"Kalimantan Barat",
+    "kab_kot":[
+      {"nama":"Kota Singkawang"},
+      {"nama":"Kota Pontianak"},
+      {"nama":"Kab. Sekadau "},
+      {"nama":"Kab. Melawi "},
+      {"nama":"Kab. Landak"},
+      {"nama":"Kab. Bengkayang"},
+      {"nama":"Kab. Kapuas Hulu"},
+      {"nama":"Kab. Sintang "},
+      {"nama":"Kab. Ketapang"},
+      {"nama":"Kab. Sanggau "},
+      {"nama":"Kab. Pontianak"},
+      {"nama":"Kab. Sambas"}
+    ]
+  },
+  {
+    "provinsi":"Kalimantan Tengah",
+    "kab_kot":[
+      {"nama":"Kota Palangkaraya"},
+      {"nama":"Kab. Barito Timur"},
+      {"nama":"Kab. Murung Raya"},
+      {"nama":"Kab. Pulang Pisau"},
+      {"nama":"Kab. Gunung Mas"},
+      {"nama":"Kab. Lamandau"},
+      {"nama":"Kab. Sukamara"},
+      {"nama":"Kab. Seruyan"},
+      {"nama":"Kab. Katingin"},
+      {"nama":"Kab. Barito Utara"},
+      {"nama":"Kab. Barito Selatan"},
+      {"nama":"Kab. Kapuas"},
+      {"nama":"Kab. Kotawaringin Timur"},
+      {"nama":"Kab. Kotawaringin Barat"}
+    ]
+  },
+  {
+    "provinsi":"Kalimantan Selatan",
+    "kab_kot":[
+      {"nama":"Kota Banjarbaru"},
+      {"nama":"Kota Banjarmasin"},
+      {"nama":"Kab. Balangan"},
+      {"nama":"Kab. Tanah Bambu"},
+      {"nama":"Kab. Tabalong"},
+      {"nama":"Kab. Hulu Sungai Utara"},
+      {"nama":"Kab. Hulu Sungai Tengah"},
+      {"nama":"Kab. Hulu Sungai Selatan"},
+      {"nama":"Kab. Tapin"},
+      {"nama":"Kab. Barito Kuala"},
+      {"nama":"Kab. Banjar"},
+      {"nama":"Kab. Kotabaru"},
+      {"nama":"Kab. Tanah Laut"}
+    ]
+  },
+  {
+    "provinsi":"Kalimantan Timur",
+    "kab_kot":[
+      {"nama":"Kota Bontang"},
+      {"nama":"Kota Tarakan"},
+      {"nama":"Kota Samarinda"},
+      {"nama":"Kota Balikpapan"},
+      {"nama":"Kab. Penajam Paser Utara"},
+      {"nama":"Kab. Kutai Timur"},
+      {"nama":"Kab. Kutai Barat"},
+      {"nama":"Kab. Malinau"},
+      {"nama":"Kab. Nunukan"},
+      {"nama":"Kab. Bulungan"},
+      {"nama":"Kab. Berau"},
+      {"nama":"Kab. Kutai Kertanegara"},
+      {"nama":"Kab. Pasir"}
+    ]
+  },
+  {
+    "provinsi":"Sulawesi Utara",
+    "kab_kot":[
+      {"nama":"Kota Tomohon"},
+      {"nama":"Kota Bitung"},
+      {"nama":"Kota Manado"},
+      {"nama":"Kab. Minahasa Utara"},
+      {"nama":"Kab. Minahasa Selatan"},
+      {"nama":"Kab. Kepulauan Talaud"},
+      {"nama":"Kab. Kepulauan Sangihe"},
+      {"nama":"Kab. Minahasa "},
+      {"nama":"Kab. Bolaang Mangondow"}
+    ]
+  },
+  {
+    "provinsi":"Sulawesi Tengah",
+    "kab_kot":[
+      {"nama":"Kota Palu"},
+      {"nama":"Kab. Tojo Una Una"},
+      {"nama":"Kab. Parigi Moutong"},
+      {"nama":"Kab. Banggai Kepulauan"},
+      {"nama":"Kab. Morowali"},
+      {"nama":"Kab. Buol"},
+      {"nama":"Kab. Toloi Toli"},
+      {"nama":"Kab. Donggala"},
+      {"nama":"Kab. Poso "},
+      {"nama":"Kab. Banggai"}
+    ]
+  },
+  {
+    "provinsi":"Sulawesi Selatan",
+    "kab_kot":[
+      {"nama":"Kota Palopo"},
+      {"nama":"Kota Pare Pare"},
+      {"nama":"Kota Makasar"},
+      {"nama":"Kab. Luwu Timur"},
+      {"nama":"Kab. Luwu Utara"},
+      {"nama":"Kab. Tana Toraja"},
+      {"nama":"Kab. Luwu"},
+      {"nama":"Kab. Enrekang"},
+      {"nama":"Kab. Pinrang"},
+      {"nama":"Kab. Sidenreng Rapang"},
+      {"nama":"Kab. Wajo"},
+      {"nama":"Kab. Soppeng"},
+      {"nama":"Kab. Barru"},
+      {"nama":"Kab. Pangkajene Kep."},
+      {"nama":"Kab. Maros"},
+      {"nama":"Kab. Bone"},
+      {"nama":"Kab. Sinjai"},
+      {"nama":"Kab. Gowa"},
+      {"nama":"Kab. Takalar"},
+      {"nama":"Kab. Jeneponto."},
+      {"nama":"Kab. Bantaeng"},
+      {"nama":"Kab. Bulukumba"},
+      {"nama":"Kab. Selayar"}
+    ]
+  },
+  {
+    "provinsi":"Sulawesi Tenggara",
+    "kab_kot":[
+      {"nama":"Kota Bau Bau"},
+      {"nama":"Kota Kendari"},
+      {"nama":"Kab. Kolaka Utara"},
+      {"nama":"Kab. Wakatobi"},
+      {"nama":"Kab. Bombana"},
+      {"nama":"Kab. Konawe Selatan"},
+      {"nama":"Kab. Buton"},
+      {"nama":"Kab. Muna"},
+      {"nama":"Kab. Konawe"},
+      {"nama":"Kab. Kolaka"}
+    ]
+  },
+  {
+    "provinsi":"Gorontalo",
+    "kab_kot":[
+      {"nama":"Kota Gorontalo"},
+      {"nama":"Kab. Pahuwato"},
+      {"nama":"Kab. Bone Bolango"},
+      {"nama":"Kab. Boalemo"},
+      {"nama":"Kab. Gorontalo"}
+    ]
+  },
+  {
+    "provinsi":"Sulawesi Barat",
+    "kab_kot":[
+      {"nama":"Kab. Majene"},
+      {"nama":"Kab. Polowali Mamasa"},
+      {"nama":"Kab. Mamasa"},
+      {"nama":"Kab. Mamuju"},
+      {"nama":"Kab. Mamuju Utara"}
+    ]
+  },
+  {
+    "provinsi":"Maluku",
+    "kab_kot":[
+      {"nama":"Kota Ambon"},
+      {"nama":"Kab. Kepulauan Aru"},
+      {"nama":"Kab. Seram Bagian Barat "},
+      {"nama":"Kab. Seram Bagian Timur"},
+      {"nama":"Kab. Buru"},
+      {"nama":"Kab. Maluku Tenggara Brt"},
+      {"nama":"Kab. Maluku Tenggara"},
+      {"nama":"Kab. Maluku Tengah"}
+    ]
+  },
+  {
+    "provinsi":"Maluku Utara",
+    "kab_kot":[
+      {"nama":"Kota Tidore Kepulauan"},
+      {"nama":"Kota Ternate"},
+      {"nama":"Kab. Halmahera Timur"},
+      {"nama":"Kab. Kepulauan Sula"},
+      {"nama":"Kab. Halmahera Selatan"},
+      {"nama":"Kab. Halmahera Utara"},
+      {"nama":"Kab. Halmahera Tengah"},
+      {"nama":"Kab. Halmahera Barat"}
+    ]
+  },
+  {
+    "provinsi":"Papua",
+    "kab_kot":[
+      {"nama":"Kota Jayapura"},
+      {"nama":"Kab. Supiori"},
+      {"nama":"Kab. Asmat"},
+      {"nama":"Kab. Mappi"},
+      {"nama":"Kab. Boven Digoel"},
+      {"nama":"Kab. Waropen"},
+      {"nama":"Kab. Tolikara"},
+      {"nama":"Kab. Yahukimo"},
+      {"nama":"Kab. Pegunungan Bintang"},
+      {"nama":"Kab. Keerom"},
+      {"nama":"Kab. Sarmi"},
+      {"nama":"Kab. Mimika"},
+      {"nama":"Kab. Paniai"},
+      {"nama":"Kab. Puncak Jaya"},
+      {"nama":"Kab. Biak Numfor"},
+      {"nama":"Kab. Yapen Waropen"},
+      {"nama":"Kab. Nabire"},
+      {"nama":"Kab. Jayapura"},
+      {"nama":"Kab. Jayawijaya"},
+      {"nama":"Kab. Merauke"}
+    ]
+  },
+  {
+    "provinsi":"Papua Barat",
+    "kab_kot":[
+      {"nama":"Kota Sorong"},
+      {"nama":"Kab. Kaima"},
+      {"nama":"Kab. Teluk Wondama"},
+      {"nama":"Kab. Teluk Bentuni"},
+      {"nama":"Kab. Raja Ampat"},
+      {"nama":"Kab. Sorong Selatan"},
+      {"nama":"Kab. Fak Fak"},
+      {"nama":"Kab. Manokwari"},
+      {"nama":"Kab. Sorong"}
+    ]
+  }
+]
